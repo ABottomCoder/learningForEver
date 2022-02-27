@@ -1,5 +1,5 @@
-# readingForEver
-Read some books and leave some traces
+# learningForEver
+Learn something and leave some traces
 
 [1. 《大话设计模式》](https://qpnc8ac8e8.feishu.cn/docs/doccnDL0zGG5jLHPn09Lg6mtWic)
 
